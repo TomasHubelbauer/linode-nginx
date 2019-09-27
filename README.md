@@ -30,3 +30,7 @@ http {
 ---
 
 - [ ] Find out why in my case it still serves the welcome page
+- [ ] Add configs for having a static site in a directory or on a subdomain
+- [ ] Add configs and information about SSL using LE
+
+https://hooshmand.net/add-a-new-domain-or-subdomain-to-your-ghost-blog/
