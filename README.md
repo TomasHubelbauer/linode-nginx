@@ -1,5 +1,7 @@
 # Linode NGinx
 
+[**WEB**](https://tomashubelbauer.github.io/linode-nginx)
+
 - Buy a domain name
 - Set domain name DNS servers to `ns1.linode.com` through `ns5.linode.com`
 - Wait until `dig`/`whois` show the Linode DNS servers
