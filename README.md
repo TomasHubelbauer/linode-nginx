@@ -12,3 +12,5 @@
 - Access the node IP to ensure NGinx servers the welcome page
 - Follow https://github.com/TomasHubelbauer/nginx-sites-available
 - Secure using https://github.com/TomasHubelbauer/nginx-lets-encrypt
+
+## To-Do
